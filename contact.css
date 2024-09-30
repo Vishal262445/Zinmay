@@ -1,0 +1,59 @@
+.contactusbuttons{
+  height: 40vmin;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contactusbuttons h3{
+  text-align: center;
+  width: 100%;
+  color: #a6a6a6;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.5m;
+  font-weight: normal;
+}
+.rec4{
+  z-index: 0;
+}
+.formpar{
+  border: 0;
+}
+.rec4{
+  border-radius: 0px;
+  border-bottom: 2px solid #404040;
+}
+.twobuttons{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 15vmin;
+  width: 20vmax;
+}
+.button1{
+  width: 8vmax;
+  height: 7vmin;
+  /* margin-right: 10px; */
+  background-color: #f5af02;
+  color: black;
+  border: none;
+  border-radius: 50px;
+  transition: all 0.3s ease 0s;
+  font-family: "Montserrat", sans-serif;
+  
+}
+
+
+
+.button2{
+  width: 8vmax;
+  height: 7vmin;
+  /* margin-right: 10px; */
+  background-color: #ffffff;
+  color: black;
+  border: none;
+  border-radius: 50px;
+  transition: all 0.3s ease 0s;
+  font-family: "Montserrat", sans-serif;
+}
